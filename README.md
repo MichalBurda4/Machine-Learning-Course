@@ -1,11 +1,26 @@
-# Machine-Learning-Course
+# 🤖 Machine Learning Course – AGH
 
-The purpose of the Machine Learning Course was to:
+This repository contains code and exercises from the **Machine Learning** course at **AGH University of Science and Technology**.
 
-* To provide students with knowledge of classical machine learning algorithms, covering the topics of supervised learning (classification, regression) and unsupervised learning (clustering, dimension reduction, pattern search).
+## 📚 Topics Covered
 
-* To familiarize students with the operation of neural networks and their learning methods, as well as the basic types of neural networks.
+- Data preprocessing and visualization
+- Supervised learning:
+  - Linear Regression
+  - Logistic Regression
+  - k-Nearest Neighbors (k-NN)
+  - Decision Trees
+  - Support Vector Machines (SVM)
+- Unsupervised learning:
+  - k-Means Clustering
+  - PCA (Principal Component Analysis)
+- Model evaluation and validation
 
-* To impart the practical skills needed to train models using the Python language and knowledge of the typical problems that arise when applying machine learning.
+## 🛠️ Technologies
 
-* To make students aware of the problem of unethical use of machine learning and the risks that arise from it.
+- **Python**
+- **scikit-learn**
+- **Pandas**
+- **NumPy**
+- **Matplotlib / Seaborn**
+- **Jupyter Notebook**
